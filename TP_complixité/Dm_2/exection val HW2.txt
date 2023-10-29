@@ -1,0 +1,45 @@
+
+
+Donner la taille de la liste ---->      50
+---> le temps dexecution 'RANGE_APPEND' ===  0.000000 milliseconde 
+---> le temps dexecution 'RANGE_INSERT' ===  0.000000 milliseconde
+
+Donner la taille de la liste ---->      100
+---> le temps dexecution 'RANGE_APPEND' ===  0.000000 milliseconde 
+---> le temps dexecution 'RANGE_INSERT' ===  0.000000 milliseconde
+
+Donner la taille de la liste ---->      200
+---> le temps dexecution 'RANGE_APPEND' ===  0.000000 milliseconde 
+---> le temps dexecution 'RANGE_INSERT' ===  0.000000 milliseconde
+
+Donner la taille de la liste ---->      300
+---> le temps dexecution 'RANGE_APPEND' ===  0.000000 milliseconde 
+---> le temps dexecution 'RANGE_INSERT' ===  0.000000 milliseconde
+
+Donner la taille de la liste ---->      400
+---> le temps dexecution 'RANGE_APPEND' ===  1.000000 milliseconde 
+---> le temps dexecution 'RANGE_INSERT' ===  0.000000 milliseconde
+
+Donner la taille de la liste ---->      500
+---> le temps dexecution 'RANGE_APPEND' ===  1.000000 milliseconde 
+---> le temps dexecution 'RANGE_INSERT' ===  0.000000 milliseconde
+
+Donner la taille de la liste ---->      600
+---> le temps dexecution 'RANGE_APPEND' ===  2.000000 milliseconde 
+---> le temps dexecution 'RANGE_INSERT' ===  0.000000 milliseconde
+
+Donner la taille de la liste ---->      700
+---> le temps dexecution 'RANGE_APPEND' ===  2.000000 milliseconde 
+---> le temps dexecution 'RANGE_INSERT' ===  0.000000 milliseconde
+
+Donner la taille de la liste ---->      800
+---> le temps dexecution 'RANGE_APPEND' ===  2.000000 milliseconde 
+---> le temps dexecution 'RANGE_INSERT' ===  0.000000 milliseconde
+
+Donner la taille de la liste ---->      900
+---> le temps dexecution 'RANGE_APPEND' ===  3.000000 milliseconde 
+---> le temps dexecution 'RANGE_INSERT' ===  0.000000 milliseconde
+
+Donner la taille de la liste ---->      1000
+---> le temps dexecution 'RANGE_APPEND' ===  4.000000 milliseconde 
+---> le temps dexecution 'RANGE_INSERT' ===  0.000000 milliseconde
